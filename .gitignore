@@ -1,0 +1,22 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+
+# VSCode / PlatformIO
+.vscode/
+.pio/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Wokwi cache
+.wokwi/
+.wokwi-cache/
+
+# Temporary files
+*.tmp
+*.log
