@@ -23,6 +23,9 @@ This repository includes both **Wokwi simulation files** and **Arduino firmware*
 
 ---
 
+![Controller Diagram](docs/CONTROLLER.png)
+
+---
 ## 🕹️ Button & Joystick Pin Mapping
 
 ### **Buttons**
